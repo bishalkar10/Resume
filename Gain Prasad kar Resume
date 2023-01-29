@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resume</title>
+
+<!-- CSS starts here-->
+<style>
+  h1, h2 {
+   
+    text-align : center; 
+    margin : 0; 
+    
+  } 
+  h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif
+  }
+ 
+  body {
+    
+    background-color :  #deeaee; 
+    
+  } 
+  
+  p {
+    font-family:  serif;
+  }
+  h3 span {
+     
+    border-style: solid;
+    border-color :#034f84 ;
+  }
+</style>
+<!-- CSS ends here-->
+</head>
+
+<body>
+  <h1 >Name : Gain Prasad Kar</h1> 
+  <h2 >Software Engineer</h2>
+  <hr>
+  <h3><span>About Me</span></h3>
+  <p>An extremely ambitious, curious, self-learner, having a growth oriented mindset, confident on own abilities, open to critisism, able to quickly adapt to changes, able to learn different technologies at an incredible speed, passionate Software Engineer skilled in Python scripting, itching to learn more and more about software technology. Looking for first work experience as a Software Engineer. <b>Learned Python basics in consecutive 2 days.</b></p> 
+  
+  <hr>
+  
+  <h3><span>Education</span></h3> 
+  
+  <p style = "text-align: left;">
+    Bankura University<span style = "float : right ;">2020 - 2023</span>
+  </p> 
+   <p style = "text-align: left;">
+    B.A English Literature<span style = "float : right ;">CGPA : 8.0</span>
+  </p> 
+  
+  <hr>
+  
+  <h3><span>Projects</span></h3> 
+  
+  <h4>Railway Ticket Booking</h4>
+  
+  <p>In this programme Railway Ticket Booking software is created. User can Enter their details like name, boarding station, destination station and it will be printed out in nice format.</p> 
+  <h4>Random Number Guessing Game</h4>
+  <p>This is a fun game. A random number is generated. User has to find the number by guessing. Computer will tell user if guessed number is higher or lower. User can keep guessing untill he find the number.</p> 
+  
+  <hr>
+  
+  <h3><span>Certificates</span></h3>
+  
+  <p>Python Fundamentals - Great learning<br>
+  Python (Basic) Skill Test - HackerRank<br>
+  Problem Solving (Basic) - HackerRank<br>
+  Data Structures and Algorithms Course in Python - Udemy<br>
+  Python (Programming Language) - Linkedin Skill Assessment Test
+   </p>
+  <hr>
+  <h3><span>Technical Skills</span></h3> 
+  
+  <p>• Python 3 Core • HTML5 Basics • (OOP) Object Oriented Programming • Data Structures and Algorithms • Debugging • Writting Clean Code • Concepts of Version Control (Github Basics) • Concepts of DBMS (SQL, NoSQL)</p> 
+  
+  <hr>
+  
+  <h3><span>Soft Skills</span></h3> 
+  
+  <p>• Communication • Time-Management • Self-Management • Team Player • Adaptive to Change • Quick Learner • Eagar To Learn • Self-Motivation • Positive and Cool Minded • Problem Analysis • Critical Thinking • Problems Solving • Emotional Intelligence. Confident</p>
+</body>
+  
+</html>
